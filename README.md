@@ -28,18 +28,19 @@ A diferencia de los temporizadores, los contadores requieren pulsos de activaci�
 - **CTU – Contador ascendente**
   - Se activa con el botón de inicio (%M0.0) y se resetea con %M0.3.
   - El motor 8 (%M1.7) se enciende al alcanzar el límite de PV = 5.
-  - ![CTU](ruta/a/la/imagen1.jpg)
+  - ![CTU](https://github.com/SantiagoBaeza/Uso-de-contadores-en-PLC/blob/main/00%20captura%20CTU.jpg)
 
 - **CTD – Contador descendente**
   - Comienza desde PV = 7 y decrementa con cada pulso.
   - LD (%M0.3) actúa como reset, y el motor 9 (%M2.0) se activa al llegar a cero.
-  - ![CTD](ruta/a/la/imagen2.jpg)
+  - ![CTD](https://github.com/SantiagoBaeza/Uso-de-contadores-en-PLC/blob/main/01%20captura%20CTD.jpg)
 
 - **CTUD – Contador bidireccional**
   - CU (%M0.0) incrementa, CD (%M0.4) decrementa.
   - R (%M0.3) y LD (%M0.5) permiten reinicio y carga.
   - QU activa el motor 10 (%M2.1), QD activa el motor 11 (%M2.2).
-  - ![CTUD](ruta/a/la/imagen3.jpg)
+  - contador en funcionamiento desde el simulador [aca](enlace)
+  - ![CTUD](https://github.com/SantiagoBaeza/Uso-de-contadores-en-PLC/blob/main/02%20captura%20CTUD.jpg)
 
 ---
 
