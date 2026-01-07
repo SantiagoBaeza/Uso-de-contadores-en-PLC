@@ -14,7 +14,7 @@ Los contadores permiten registrar eventos como:
 - Producción de botellas o cajas
 - Fallas ocurridas en un turno
 
-Variables clave:
+Variables:
 
 - **PV (Preset Value)**: límite del contador
 - **CV (Current Value)**: valor actual del conteo
