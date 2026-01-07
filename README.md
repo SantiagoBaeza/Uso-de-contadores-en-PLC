@@ -1,3 +1,5 @@
+[⬅️ Volver a "Conceptos de Ladder"](https://github.com/SantiagoBaeza/Conceptos-importantes-de-Ladder/tree/main)
+
 # Contadores en PLC – CTU, CTD y CTUD en LAD
 
 Este proyecto muestra el funcionamiento de los tres tipos de contadores disponibles en programación Ladder: **CTU (Count Up), CTD (Count Down) y CTUD (Count Up/Down)**. A través de simulaciones prácticas, se exploran sus diferencias, aplicaciones típicas y cómo se comportan en un entorno de automatización.
