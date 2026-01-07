@@ -41,7 +41,7 @@ A diferencia de los temporizadores, los contadores requieren pulsos de activaci√
   - CU (%M0.0) incrementa, CD (%M0.4) decrementa.
   - R (%M0.3) y LD (%M0.5) permiten reinicio y carga.
   - QU activa el motor 10 (%M2.1), QD activa el motor 11 (%M2.2).
-  - contador en funcionamiento desde el simulador [aca](https://github.com/SantiagoBaeza/Uso-de-contadores-en-PLC/blob/main/03%20funcionamiento%20de%20CTUD%20.gif)
+  - Contador en funcionamiento desde el simulador [aca](https://github.com/SantiagoBaeza/Uso-de-contadores-en-PLC/blob/main/03%20funcionamiento%20de%20CTUD%20.gif)
   - ![CTUD](https://github.com/SantiagoBaeza/Uso-de-contadores-en-PLC/blob/main/02%20captura%20CTUD.jpg)
 
 ---
