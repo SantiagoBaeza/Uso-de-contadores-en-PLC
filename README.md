@@ -62,7 +62,7 @@ A diferencia de los temporizadores, los contadores requieren pulsos de activaci�
 
 ## Comentarios finales
 
-El archivo del proyecto se incluye para que cualquier persona con acceso a TIA Portal V16 pueda abrirlo y realizar la simulación. En mi caso, el software fue proporcionado como parte del curso de Udemy. Este ejercicio me permitió comprender mejor la diferencia entre los tipos de contadores y cómo aplicarlos en situaciones reales de automatización.
+El [archivo](enlace) del proyecto se incluye para que cualquier persona con acceso a TIA Portal V16 pueda abrirlo y realizar la simulación. En mi caso, el software fue proporcionado como parte del curso de Udemy. Este ejercicio me permitió comprender mejor la diferencia entre los tipos de contadores y cómo aplicarlos en situaciones reales de automatización.
 
 > 🧩 Este repositorio forma parte de una serie de prácticas que documentan mi avance en programación de PLC.
 
